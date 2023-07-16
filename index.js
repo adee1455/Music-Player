@@ -18,7 +18,7 @@ let songs = [
     {songName: "Deaf ", filePath: "songs/3.mp3", coverPath: "covers/3.jpg"},
     {songName: "Bella Ciao", filePath: "songs/4.mp3", coverPath: "covers/4.webp"},
     {songName: "Sorry", filePath: "songs/5.mp3", coverPath: "covers/5.jpg"},
-    {songName: "Drillis Ertugrul", filePath: "songs/6.mp3", coverPath: "covers/6.jpeg"},
+    {songName: "Ertugrul", filePath: "songs/6.mp3", coverPath: "covers/6.jpeg"},
     {songName: "LOVE", filePath: "songs/7.mp3", coverPath: "covers/7.jpg"},
 ]
 
